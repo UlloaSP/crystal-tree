@@ -33,7 +33,7 @@ setuptools.setup(
         'importlib_resources',
         'setuptools-git',
         'numpy',
-        'sklearn',
+        'scikit-learn',
         'dafact',
         'xclingo',
     ],
